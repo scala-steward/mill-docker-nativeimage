@@ -1,0 +1,8 @@
+{
+  "servers": {
+    "mill-docker-nativeimage-metals": {
+      "url": "http://localhost:54927/sse",
+      "type": "sse"
+    }
+  }
+}
